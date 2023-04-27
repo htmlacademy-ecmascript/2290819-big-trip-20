@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Katerina Kravtsova](https://up.htmlacademy.ru/ecmascript/20/user/2290819).
-* Наставник: `Неизвестно`.
+* Наставник: `Nikita Zelenov`.
 
 ---
 
