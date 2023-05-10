@@ -1,7 +1,7 @@
-import { FilterView } from './view/filter-view.js';
-import NewSortView from './view/sort-view.js';
-import BoardPresenter from './presenter/board-presenter.js';
-import { render } from './render.js';
+import FilterView from './view/filter-view';
+import NewSortView from './view/sort-view';
+import BoardPresenter from './presenter/board-presenter';
+import { render } from './render';
 
 // Хедер
 const siteHeaderElement = document.querySelector('.page-header');

@@ -1,8 +1,8 @@
-import {render} from './render.js';
-import {DestinationButtonView} from '../view/destination-button-view.js';
-import {NewTripListView} from '../view/trip-list-view.js';
-import {NewFormAddView} from '../view/task-view.js';
-import {NewFormEditView} from '../view/task-edit-view.js';
+import {render} from '../render';
+import DestinationButtonView from '../view/destination-button-view';
+import NewTripListView from '../view/trip-list-view';
+import NewFormAddView from '../view/task-view';
+import NewFormEditView from '../view/task-edit-view';
 
 export default class BoardPresenter {
   tripListComponent = new NewTripListView();
